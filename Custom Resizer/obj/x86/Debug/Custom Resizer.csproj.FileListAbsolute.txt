@@ -1,0 +1,13 @@
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\bin\Debug\Custom Resizer.exe
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\bin\Debug\Custom Resizer.pdb
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\Custom Resizer.exe
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\Custom Resizer.pdb
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\bin\Debug\Custom Resizer.exe.manifest
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\bin\Debug\Custom Resizer.application
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\Custom Resizer.exe.manifest
+F:\VSTUDIO\CSHARP\Custom Resizer\Custom Resizer\obj\x86\Debug\Custom Resizer.application
